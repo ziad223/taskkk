@@ -1,0 +1,25 @@
+.send-contents{
+    width: 95%;
+    margin: 100px auto;
+}
+.send-section{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.content-up{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.content-up-right{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.send-contents .p{
+color: gray;
+font-size: 18px;
+margin-top: 10px;
+line-height: 1.5;
+}
